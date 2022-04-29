@@ -16,3 +16,10 @@ With the questions in mind, the follwing deliverables are finally what I need to
 5. Supporting visualizations and key findings 
 6. Your top high-level content recommendations based on your analysis
 
+To complete the analysis, I will use the 6 stages of analysis process as a guide. 
+1. Ask
+2. Prepare
+3. Process
+4. Analyze
+5. Share
+6. Act
