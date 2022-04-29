@@ -1,7 +1,6 @@
 # Bellabeat_Case_Study
 The project serves as the capstone of Google Analytics Certificate. And an illustration of my dedication in data analysis.
 
-
 As a a junior data analyst working on the marketing analyst team at Bellabeat. I need to answer the following questions by different approaches.
 1. What are some trends in smart device usage? 
 2. How could these trends apply to Bellabeat customers? 
