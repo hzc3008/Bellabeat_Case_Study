@@ -1,6 +1,8 @@
 # Bellabeat_Case_Study
 The project serves as the capstone of Google Analytics Certificate. And an illustration of my dedication in data analysis.
 
+![image](https://user-images.githubusercontent.com/104649195/166116640-db1f2b1f-bd5c-481a-8adf-aef6bb66f400.png)
+
 **Please view file Full_Report.pdf for the detailed procedure I used and insights generated.**
 
 As a a junior data analyst working on the marketing analyst team at Bellabeat. I need to answer the following questions by different approaches.
