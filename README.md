@@ -1,5 +1,6 @@
 # Bellabeat_Case_Study
 The project serves as the capstone of Google Analytics Certificate. And an illustration of my dedication in data analysis.
+View file Full_Report.pdf for the detailed procedure I used and insights generated.
 
 As a a junior data analyst working on the marketing analyst team at Bellabeat. I need to answer the following questions by different approaches.
 1. What are some trends in smart device usage? 
@@ -22,3 +23,4 @@ To complete the analysis, I will use the 6 stages of analysis process as a guide
 4. Analyze
 5. Share
 6. Act
+
